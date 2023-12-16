@@ -1,0 +1,129 @@
+.section-class{
+    max-width: 1100px;
+    margin: auto;
+    background-color: #bde0fe;
+}
+.container-content{
+    background-color: #a2d2ff;
+    max-width: 1000px;
+    margin: auto;
+    /* padding: 2rem; */
+}
+.container .container-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.outer-section{
+    padding: 1rem;
+}
+.div-for-checkbox{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    width: 100%;
+
+}
+.checkbox-content{
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+    /* background-color: white; */
+    padding: 10px;
+}
+.checkbox-contents{
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+    background-color: white;
+    padding: 10px;
+}
+.checkbox-title{
+    display: flex;
+    flex-direction: column;
+}
+.title-span{
+    color:#20a4f3;
+    font-size: 2rem;
+}
+.checkbox-title{
+    display: flex;
+    flex-direction: column;
+}
+.title-span{
+    color:#20a4f3;
+    font-size: 2rem;
+}
+.months-span{
+    color: #20a4f3;
+}
+.title-spans{
+    /* color:#20a4f3; */
+    font-size: 2rem;
+}
+.months-spans{
+    /* color: #20a4f3; */
+}
+.inner-section{
+    display: flex;
+    /* flex-direction: column  ;     */
+    width: 100%;
+}
+.inner-section1{
+    width: 550px;
+    padding: 10px;
+}
+.inner-sec-info{
+    display: flex;
+    margin-top: 1rem;
+    width: 100%;
+    border-radius: 10px;
+    color: white;
+}
+.small-div-color{
+    width: 20px;
+    background-color: rgb(255, 204, 0);
+    border-radius: 10px 0px 0px 10px;
+}
+
+.big-div-color{
+    display: flex;
+    /* flex-direction: column; */
+    background-color: #20a4f3;
+    justify-content: space-between;
+    padding: 10px;
+    width: 980px;
+    border-radius: 0px 10px 10px 0px;
+}
+.small-div-colors{
+    width: 20px;
+    background-color: white;
+    color: black;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.big-div-colors{
+    display: flex;
+    color: black;
+    /* flex-direction: column; */
+    /* background-color: #20a4f3; */
+    background-color: white;
+    justify-content: space-between;
+    padding: 10px;
+    width: 980px;
+    border-radius: 0px 10px 10px 0px;
+}
+.info1{
+    display: flex;
+    flex-direction: column;
+}
+.inner-section2{
+    width: 450px;
+    padding: 10px;
+}
+.content-info{
+    border-radius: 10px;
+    background-color: #20a4f3;
+    padding: 10px;
+
+}
